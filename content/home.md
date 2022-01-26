@@ -14,3 +14,5 @@ cats:
 Welcome to my awesome page about cats of the internet. Leon the cat
 
 This page is built with NextJS, and content is managed in Netlify CMS 
+
+![](img/leon2.jpg)
