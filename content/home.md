@@ -10,6 +10,8 @@ cats:
     name: Lil Bub
   - name: Leon
     description: Leon is local cat, always grumpy and ready for more food!
+  - name: Garfield
+    description: Loves lasanga
 ---
 Welcome to my awesome page about cats of the internet. Leon the cat
 
